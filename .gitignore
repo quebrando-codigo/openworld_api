@@ -4,6 +4,7 @@ __pycache__/
 *.dat
 .vscode
 .idea/
+.idea/workspace.xml
 .ipynb_checkpoints
 data/
 
